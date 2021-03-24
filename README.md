@@ -1,6 +1,7 @@
 <header align="center">
-<h2><b>Hi there 👋</b></h2>
+<h2 align="center"><b>Hi there 👋</b></h2>
 <br>
+<p align="center">
 <a href="https://github.com/ahmzan">
 <img src="https://komarev.com/ghpvc/?username=ahmzan">
 </a>
@@ -8,7 +9,7 @@
 <a href="https://t.me/ahmzan">
 <img src="https://img.shields.io/badge/Ahmzan-informational?style=flat&logo=telegram">
 </a>
-  
+</p>
 </header>
 <br>
 <body>
