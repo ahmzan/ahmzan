@@ -13,12 +13,15 @@
 </header>
 <br>
 <body>
-<p>
-<a href="https://github.com/ahmzan">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmzan&show_icons=true&theme=tokyonight&locale=en" />
-</a>
-<a href="https://github.com/ahmzan">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmzan&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
-</a>
-</p>
+  <details>
+    <summary>Statistics</summary>
+    <p>
+      <a href="https://github.com/ahmzan">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmzan&show_icons=true&theme=tokyonight&locale=en" />
+      </a>
+      <a href="https://github.com/ahmzan">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmzan&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+      </a>
+    </p>
+  </details>
 </body>
